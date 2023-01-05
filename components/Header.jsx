@@ -14,7 +14,7 @@ const Header = () => {
   return (
     <div className="container mx-auto px-10 mb-8">
         <div className="border-b xl:w-full inline-block border-gray-400 py-8">
-            <div className="md:float-left block bg-green-300 bg-opacity-60 sm:w-60 border-2 border-green-600 rounded">
+            <div className="md:float-left block bg-green-300 bg-opacity-60 sm:w-70 border-2 border-green-600 rounded">
                 <Link href="/">
                     <span className="cursor-pointer font-bold text-6xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-orange-600 via-purple-500 to-green-600 flex">
                       <a className="pt-2 ml-2">AJUL</a>
