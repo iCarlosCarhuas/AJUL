@@ -18,7 +18,7 @@ const Header = () => {
                 <Link href="/">
                     <span className="cursor-pointer font-bold text-6xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-orange-600 via-purple-500 to-green-600 flex">
                       <a className="pt-2 ml-2">AJUL</a>
-                    <img src="/Logo.png" className=" h-20 mx-3">
+                    <img src="/Logo Oficial.png" className=" h-20 mx-3">
                     </img>
                     </span>                    
                 </Link>
